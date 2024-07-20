@@ -1,18 +1,16 @@
-<div align="center">
-  
-# BalrajSingh166.github.io 
+# BalrajSingh166.github.io
 
 ---
 
 # *About me :*
 
-Hello everyone, I am Balraj Singh and currently pursuing a B.Tech in Mechanical Engineering at Guru Nanak Dev Engineering College, Ludhiana. 
+Hello everyone, I am Balraj Singh and currently pursuing a B.Tech in Mechanical Engineering at Guru Nanak Dev Engineering College, Ludhiana.
 
 ---
 
 ## *My Academics :*
 
-# 🎓 Academic Summary
+### 🎓 Academic Summary
 
 | *Class* | *Marks* |
 |:---------:|:---------:|
@@ -35,4 +33,4 @@ I studied at *Sant Isher Singh Ji Memorial School Karamsar Rara Sahib* until cla
 
 ---
 
-</div>
+---
