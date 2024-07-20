@@ -34,6 +34,8 @@ I studied at *Sant Isher Singh Ji Memorial School Karamsar Rara Sahib* until cla
 ---
 
 ## My Microsoft Excel Certificate :
+![Balraj_Singh20240720-73-1e612ro](https://github.com/user-attachments/assets/b5dbff4b-5e47-4845-9f12-c8829e001b88)
 
+---
 
 ---
